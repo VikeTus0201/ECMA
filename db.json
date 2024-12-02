@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Hyundai Santa Fe",
+      "price": "20000",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_71.jpg",
+      "description": "Rời khỏi Hội Kinkou, từ bỏ danh hiệu Nắm Đấm Bóng Đêm, Akali giờ trở thành thứ vũ khí giết chóc hành động một mình mà người dân cần. Dù vẫn khắc ghi những gì học được từ Shen, cô đã thế sẽ tiêu diệt mọi kẻ thù của Ionia, từng mạng từng mạng một. Akali có thể ra tay trong yên lặng, nhưng thông điệp của cô rất rõ ràng: hãy khiếp sợ một sát thủ vô chủ."
+    },
+    {
+      "id": "3",
+      "name": "Azir 2005",
+      "price": 300,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_5.jpg",
+      "description": "Azir là hoàng đế của Shurima từ một thời đại xa xưa, một kẻ kiêu hãnh đứng trên đỉnh của sự bất tử. Thói ngạo mạn đã khiến ngài bị phản bội và bị sát hại đúng thời khắc đắc thắng nhất. Nhưng giờ, qua hàng thiên niên kỷ sau, ngài đã tái thế và trở thành Thể Thăng Hoa đầy sức mạnh. Sau khi thành phố bị chôn vùi của ngài trỗi dậy từ lòng cát, Azir khát khao có thể phục hồi Shurima được hưng thịnh như trước đây."
+    },
+    {
+      "id": "4",
+      "name": "Diana",
+      "price": 400,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_18.jpg",
+      "description": "Cùng chiếc nguyệt kiếm lưỡi liềm trên tay, Diana là môn đồ và chiến binh của Giáo Hội Lunari - một đức tin đã bị vùi sâu dưới từng tấc đất quanh Đỉnh Núi Targon. Khoác trên mình bộ giáp lấp lánh màu tuyết lạnh trong đêm, cô là hiện thân cho sức mạnh của trăng bạc. Được Thượng Nhân từ trên đỉnh Núi Targon lựa chọn, Diana hấp thụ mọi tinh hoa, đấu tranh để hiểu được quyền năng và mục đích của mình tại thế giới này khi chẳng còn là con người nữa."
+    },
+    {
+      "id": "5",
+      "name": "Ekko",
+      "price": 500,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_19.jpg",
+      "description": "Là một thần đồng xuất thân từ những khu phố ngoặt nghèo xứ Zaun, Ekko có khả năng thao túng thời gian để xoay chuyển mọi tình huống theo hướng có lợi cho cậu. Bằng chính phát minh của mình - Động Cơ Zero, cậu khai phá các khả năng phân nhánh của thực tại để tạo ra những khoảnh khắc hoàn hảo. Mặc dù say sưa với sự tự do trong thế giới của mình, Ekko vẫn luôn làm mọi thứ để bảo vệ những người bạn của mình mỗi khi họ gặp nạn. Với người ngoài, Ekko là một người dường như lúc nào cũng đạt được những điều không thể ngay từ lần đầu thử sức."
+    },
+    {
+      "id": "6",
+      "name": "Fiora",
+      "price": 600,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_4.jpg",
+      "description": "Là nữ kiếm sư đáng sợ nhất của toàn cõi Valoran, Fiora nổi tiếng với ý chí bất khuất và niềm tự hào đến ngạo mạn của cô dành cho kĩ năng dụng kiếm của bản thân. Được sinh ra trong Nhà Laurent thuộc Demacia, Fiora giành lấy quyền chỉ huy gia tộc từ tay cha cô, khi nó gần như bị sụp đổ bởi một vụ bê bối. Mặc dù danh tiếng của nhà Laurent đã bị hủy hoại, Fiora vẫn tìm mọi cách để khôi phục danh dự của gia đình và đưa nhà Laurent trở lại hàng ngũ danh gia vọng tộc của Demacia."
+    },
+    {
+      "id": "7",
+      "name": "Master Yi",
+      "price": 700,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_9.jpg",
+      "description": "Master Yi đã rèn luyện cơ thể và mài giũa trí óc để có thể đưa suy nghĩ và hành động gần như hòa làm một. Tuy với anh bạo lực là giải pháp cuối cùng cho mọi chuyện, nhưng mỗi khi cần ra tay, lưỡi kiếm thanh thoát và sắc lẹm của Yi đều xử lý và kết thúc mọi chuyện vô cùng nhanh gọn. Là một trong những môn đồ cuối cùng của võ phái Wuju xứ Ionia, Yi dành cả đời để tiếp nối di sản ấy— bằng cách dùng Thất Kính Thấu Thị để kiếm tìm những môn đồ tài năng và xứng đáng nhất."
+    },
+    {
+      "id": "8",
+      "name": "Rengar",
+      "price": 800,
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
+      "description": "Rengar là một tên thợ săn chiến lợi phẩm Vastaya hung tợn sống nhờ vào khao khát săn đuổi và giết chóc những sinh vật nguy hiểm. Hắn ta chu du khắp thế giới để tìm kiếm những con quái vật đáng sợ nhất, đặc biệt là lần theo mọi dấu vết của Kha'Zix, thứ sinh vật Hư Không ghê tởm đã cào mất một mắt của hắn. Rengar săn đuổi những con mồi của hắn không vì thức ăn hay danh tiếng, mà chỉ đơn giản là vì vẻ đẹp thuần túy của việc săn đuổi."
+    },
+    {
+      "name": "Hyundai Santa Fe",
+      "price": "111",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_2.jpg",
+      "description": "điện thoại",
+      "id": "F8BGpIR"
+    },
+    {
+      "name": "\tLexus LS500",
+      "price": "111",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_2.jpg",
+      "description": "ácdc",
+      "id": "bli2pBG"
+    }
+  ]
+}
